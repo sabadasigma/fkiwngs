@@ -1,0 +1,11 @@
+p{
+    color: crimson;
+    background-color: chartreuse;
+}
+h2{
+    color: gold;
+}
+.main-p{
+    font-size: 40px;
+    border: 2px solid yellow
+}
